@@ -1,0 +1,15 @@
+{
+  "name": "9_lodash_yargs",
+  "version": "1.0.0",
+  "description": "Lodash and yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@d4nd14z",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^14.0.0"
+  }
+}
