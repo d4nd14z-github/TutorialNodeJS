@@ -1,0 +1,9 @@
+
+
+
+Informacion del CPU: 
+[{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":2250546,"nice":0,"sys":2786359,"idle":57282046,"irq":1072265}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":1207890,"nice":0,"sys":926484,"idle":60184375,"irq":97187}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":2060000,"nice":0,"sys":1372500,"idle":58886250,"irq":27156}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":1148296,"nice":0,"sys":1286171,"idle":59884281,"irq":12781}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":2048921,"nice":0,"sys":1445796,"idle":58824031,"irq":27093}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":1575656,"nice":0,"sys":875812,"idle":59867281,"irq":17406}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":1942937,"nice":0,"sys":1441765,"idle":58934031,"irq":27593}},{"model":"Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz","speed":2808,"times":{"user":1354171,"nice":0,"sys":696843,"idle":60267718,"irq":13015}}]
+Informacion del Sistema Operativo: 
+win32
+Informacion del Usuario: 
+LAPTOP-H0K2FQ4REste es el contenido del archivo que será creado mediante el modulo fs (File System)
